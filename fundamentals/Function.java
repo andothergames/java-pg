@@ -1,3 +1,4 @@
+package fundamentals;
 public class Function {
     public static void main(String[] args) {
         //overloading a method with diff combs of pars

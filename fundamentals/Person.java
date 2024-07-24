@@ -1,3 +1,4 @@
+package fundamentals;
 public class Person {
     // defining an object - does not need psvm
     //encapsulate to contain diff things to be a person

@@ -1,3 +1,4 @@
+package fundamentals;
 public class PersonAdmin {
     public static void main(String[] args) {
         Person personSheila = new Person("sheila", 30, true);

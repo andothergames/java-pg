@@ -1,3 +1,4 @@
+package fundamentals;
 public class Hello {
     // psvm tells it where to start
     public static void main(String[] args) {
@@ -9,6 +10,9 @@ public class Hello {
         char myChar = 'a';
         // single quotes for char, double for String, Arrays, Classes, Interface
         boolean myBool = false;
+
+        System.out.println(myDecimal);
+        System.out.println(myChar);
 
         //OBJECTS
         // objects (non-prims) start upper case String...
